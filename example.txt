@@ -1,0 +1,5 @@
+Lo que aprendi en la escuela de botes es:
+DevOps is a term for a group of concepts that, 
+while not all new, have catalyzed into a movement 
+and are rapidly spreading throughout the technical 
+community.
